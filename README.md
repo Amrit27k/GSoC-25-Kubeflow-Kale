@@ -33,5 +33,5 @@ The modernization effort resulted in the following key achievements:
 | Resource Type | Link |
 | :--- | :--- |
 | **Project Repository** | [Kubeflow Kale](https://github.com/kubeflow/kale) |
-| **Project Roadmap** | [Kubeflow Kale 2.0 - Project Roadmap](link-to-roadmap-document) |
-| **Project Blog** | [From Notebooks to Pipelines: My GSoC’25 Journey Modernizing Kubeflow Kale with KFPv2 and Jupyterlabv4](link-to-blog-post) |
+| **Project Roadmap** | [Kubeflow Kale 2.0 - Project Roadmap](https://github.com/kubeflow-kale/kale/issues/457) |
+| **Project Blog** | [From Notebooks to Pipelines: My GSoC’25 Journey Modernizing Kubeflow Kale with KFPv2 and Jupyterlabv4](https://medium.com/@amritkmr4272/from-notebooks-to-pipelines-my-gsoc25-journey-modernizing-kubeflow-kale-with-kfpv2-and-e098f194208c?postPublishedType=repub) |
